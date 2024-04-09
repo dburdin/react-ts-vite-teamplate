@@ -4,3 +4,4 @@
 
 - @types/react
 - sass
+- vite-plugin-svgr
