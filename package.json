@@ -2,7 +2,7 @@
   "name": "react-ts-vite-teamplate",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://dburdin.github.io/react-ts-vite-template/",
+  "homepage": "https://dburdin.github.io/react-ts-vite-template/",
   "type": "module",
   "scripts": {
     "dev": "vite",
